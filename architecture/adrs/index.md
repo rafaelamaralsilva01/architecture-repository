@@ -1,0 +1,1 @@
+- [ADR-FAKE-731534 - ADR fake - teste portal](adr-fake-731534.md)
