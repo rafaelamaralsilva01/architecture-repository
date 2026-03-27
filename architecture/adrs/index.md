@@ -1,0 +1,1 @@
+- [ADR-SCRIPT-1774569766 - Teste script submit](adr-script-1774569766.md)
