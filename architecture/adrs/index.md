@@ -1,0 +1,1 @@
+- [GLOBAL-0012 - New ADR 1774643143187](global-0012.md)
