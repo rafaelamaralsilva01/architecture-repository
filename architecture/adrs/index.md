@@ -1,0 +1,1 @@
+- [GLOBAL-0014 - API como fonte da verdade com MCP como autoria primária e Git como publicação](global-0014.md)
