@@ -1,0 +1,1 @@
+- [GLOBAL-0001 - New ADR f79a4559](global-0001.md)
