@@ -1,0 +1,1 @@
+- [GLOBAL-0001 - New ADR d261ea95](global-0001.md)
