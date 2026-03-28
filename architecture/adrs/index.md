@@ -1,0 +1,1 @@
+- [GLOBAL-0017 - Consolidar autoria via MCP com tool composta e alinhamento automático de id](global-0017.md)
